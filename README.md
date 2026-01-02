@@ -5,7 +5,7 @@ An end-to-end **Data Science & Machine Learning dashboard** that analyzes studen
 ---
 
 ## 🚀 Live Application
-🔗 **Streamlit App:** _(Add your deployed Streamlit URL here)_
+🔗 **Streamlit App:** _https://manjubhargavi-studentproject.streamlit.app/
 
 ---
 
